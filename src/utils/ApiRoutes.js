@@ -1,6 +1,6 @@
 export const HOST = "https://server-jtd4.onrender.com";
 
-const AUTH_ROUTE = `${HOST}/api/auth`;
+const AUTH_ROUTE = `${HOST}/api/auth`; 
 
 const MESSAGES_ROUTE = `${HOST}/api/messages`;
 
