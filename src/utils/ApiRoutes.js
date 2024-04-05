@@ -1,4 +1,4 @@
-export const HOST = "http://localhost:3006";
+export const HOST = "https://server-jtd4.onrender.com";
 
 const AUTH_ROUTE = `${HOST}/api/auth`;
 
